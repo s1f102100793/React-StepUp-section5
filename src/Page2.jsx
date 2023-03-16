@@ -6,5 +6,3 @@ export const Page2 = () => {
     );
   };
   
-
-  abmbkxas
