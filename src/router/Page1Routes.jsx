@@ -17,5 +17,5 @@ export const page1Routes = [
     path: "/detailB",
     exact: false,
     children: <Page1DetailB />
-  },
+  }
 ];
